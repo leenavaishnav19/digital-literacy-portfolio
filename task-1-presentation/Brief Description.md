@@ -14,4 +14,4 @@ Overall, this task enhanced my understanding of digital literacy and how to effe
 ## Links
 Canva Inforgrphic Link - https://canva.link/ry424nkx4jltn6r
 
-Prezi Infographic slides link - 
+Prezi Infographic slides link - https://prezi.com/view/FrUxfFqM0J5BeO9xopwf/?referral_token=S4pTWzlnB3FN
