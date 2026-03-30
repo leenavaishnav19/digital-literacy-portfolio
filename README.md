@@ -33,3 +33,4 @@ You can explore the project directly on GitHub in any browser. No special softwa
 3. Open `Project_Report.pdf` to read the full project report.
 
 ## Digital Literacy Awareness Quiz Link
+https://docs.google.com/forms/d/e/1FAIpQLSdxI_geZc7JKtaUOiP-PT-VNxNXy1lcwT2gDzi5yX8-Au7UAg/viewform?usp=dialog
