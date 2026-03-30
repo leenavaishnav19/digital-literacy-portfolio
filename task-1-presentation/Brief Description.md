@@ -1,5 +1,17 @@
-I created my infographic using Prezi, an interactive presentation tool that helps in designing visually engaging and dynamic content. The infographic focuses on the concept of digital literacy and highlights its importance in today’s digital world. The design features a central globe representing “Digital Literacy” as a global skill, surrounded by multiple sections covering key topics such as what digital literacy is, useful digital tools for students, safe internet practices, and email etiquette.
+# Digital Literacy Infographic
+For this task, I created a digital literacy awareness infographic using **Canva and Prezi**. The infographic is designed to help students understand the importance of digital literacy in today’s technology-driven world. 
+It covers key areas such as the meaning of digital literacy, useful digital tools for students, safe internet practices, maintaining a professional online presence, and proper email etiquette.
+The design uses a zooming presentation style to make the content visually engaging and easy to follow. 
+Each section is supported with relevant icons, examples, and short explanations to improve clarity and understanding.
 
-Each section is designed using vibrant colors, icons, and short bullet points to ensure clarity and easy understanding. The infographic also includes a “Why it Matters” section, which explains how digital literacy improves learning, ensures online safety, and helps build a professional online presence. Additionally, quick tips like “Think before you click” and “Protect your privacy” are included to reinforce responsible digital behavior.
+While creating the infographic, I found it interesting to present information in a visual format instead of traditional text. 
+It helped me understand how design and structure can improve communication.
+## The challenging part 
+The challenging part was organizing the content in a way that is both informative and visually appealing without making it too crowded.
 
-One interesting aspect of creating this design was using creative visuals and layout techniques to present information effectively. However, maintaining a balance between creativity and simplicity was slightly challenging, as I had to avoid overcrowding the infographic while keeping it informative.
+Overall, this task enhanced my understanding of digital literacy and how to effectively present information to others.
+
+## Links
+Canva Inforgrphic Link - https://canva.link/ry424nkx4jltn6r
+
+Prezi Infographic slides link - 
