@@ -1,2 +1,1 @@
-![Image 08-01-1948 Saka at 21 01](https://github.com/user-attachments/assets/0fba57b1-c329-463e-b01f-985b1e241bdd)
-![Image 09-01-1948 Saka at 10 58](https://github.com/user-attachments/assets/8ba388ed-f9b4-4138-be6e-45e8630601cc)
+<img width="1440" height="900" alt="Screenshot 1948-01-10 at 16 05 37" src="https://github.com/user-attachments/assets/7f84c3fd-cbb1-4c80-bc25-ca50742acb23" />
